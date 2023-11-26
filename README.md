@@ -16,7 +16,7 @@ It offers users the ability to perform common banking operations such as  balanc
 
 ## Code Structure
 
-The project is organized into three main classes:
+The project is organized into three classes:
 
 - **Account:** Manages individual customer accounts and transactions.
 - **OptionMenu:** Handles user interactions, login authentication, and provides a menu system.
@@ -37,10 +37,11 @@ In OptionMenu.java - OptionMenu Class
 In ATM.java - Main Class 
 
 ## Presentation slides 
+
 in master brunch 
 TriForce ATM Machine .pptx
 
-# Team Information 
+## Team Information 
 
 1. Jahid Hasan (222-115-116)
 2. Abdullah Mohammed (222-115-105)
