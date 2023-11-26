@@ -31,10 +31,10 @@ git clone https://github.com/jahidjubaer/OPP-Java-Project
 ## Source code 
 
 In master branch you can find source code Folder name "atm12".
-In Main.java - Full source code 
-In Account.java - Account Class 
-In OptionMenu.java - OptionMenu Class
-In ATM.java - Main Class 
+In Main.java - Full source code ,
+In Account.java - Account Class ,
+In OptionMenu.java - OptionMenu Class,
+In ATM.java - Main Class, 
 
 ## Presentation slides 
 
