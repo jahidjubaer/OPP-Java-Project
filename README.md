@@ -1,6 +1,6 @@
 # TriForce ATM Machine
 
-Welcome to the SecureBank ATM System GitHub repository! This project is an implementation of a simple ATM system in Java .
+Welcome to the TriFOrce ATM System GitHub repository! This project is an implementation of a simple ATM system in Java .
 
 ## Introduction
 
